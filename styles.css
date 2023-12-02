@@ -223,6 +223,17 @@ h3 {
         display: block;
         width: 150%;
     }
+    #arrow {
+        width: 40px;
+        opacity: 0.2;
+    }
+    #arrow:hover {
+        opacity: 0.8;
+    }
+    footer {
+        gap: 20px;
+        font-size: smaller;
+    }
 }
 
 @media (max-width: 950px) {
@@ -247,6 +258,5 @@ h3 {
     }
     .contact-container {
         max-width: 45%;
-    }
-    
+    }   
 }

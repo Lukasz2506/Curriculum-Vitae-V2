@@ -245,10 +245,7 @@ h3 {
     }
     #arrow {
         width: 40px;
-        opacity: 0.2;
-    }
-    #arrow:hover {
-        opacity: 0.8;
+        opacity: 0.2!important;
     }
     .description {
         max-width: 80%;

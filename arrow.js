@@ -17,5 +17,6 @@ arrow.addEventListener("click", function() {
     arrow.src = arrowHover;
     setTimeout(function() {
         arrow.src = arrowOut;
-    }, "1500")
+    }, "300")
 });
+
